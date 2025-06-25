@@ -35,7 +35,7 @@ To set up the project, follow these steps:
 1. **Clone the Repository**
 
    ```bash
-   git clone https://github.com/ManiNagaraj2/Smart-Document-Assistant.git
+   git clone https://github.com/azmathgit/QuickScribe.git
    ```
    
 2. **Install the necessary Python packages using requirements.txt:**
